@@ -1,7 +1,7 @@
 YodaTranslate
 =====================
 
-An iOS app that translates your messages to Yoda speak, and l33t speech too! Translations are generated with [mashape API](www.mashape.com), and a messaging style translation built with an the [PTSMessagingCell](https://github.com/ppanopticon/PTSMessagingCell) class. Choose a translation style, type a message, then the app responds with the translation.
+An iOS app that translates your messages to Yoda speak, and l33t speech too! Translations are generated with [mashape API](www.mashape.com), and a messaging style translation UI is built in part, with the  [PTSMessagingCell](https://github.com/ppanopticon/PTSMessagingCell) class. Choose a translation style, type a message, then the app responds with the translation.
 
 ![](http://i.imgur.com/V88UiKk.png)
 
