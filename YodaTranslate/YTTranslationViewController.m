@@ -146,7 +146,7 @@ static CGFloat standardSpacing = 8.0f;
             [self.activityIndicator stopAnimating];
             [self setupTitle];
             
-            if ([translatedString isEqualToString:@""]) {
+            if (!translatedString) {
                 NSString *alertAPIError = @"Sorry, an API error has occurred.";
                 [self.dataStore.translations.messages addObject:alertAPIError];
                 [self.tableview reloadData];
