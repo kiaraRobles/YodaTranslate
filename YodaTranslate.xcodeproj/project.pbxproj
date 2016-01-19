@@ -13,24 +13,13 @@
 		E947EE061C4B090000EA4A7E /* YTTranslations.m in Sources */ = {isa = PBXBuildFile; fileRef = E947EE051C4B090000EA4A7E /* YTTranslations.m */; settings = {ASSET_TAGS = (); }; };
 		E947EE0E1C4B268600EA4A7E /* PTSMessagingCell.m in Sources */ = {isa = PBXBuildFile; fileRef = E947EE0D1C4B268600EA4A7E /* PTSMessagingCell.m */; settings = {ASSET_TAGS = (); }; };
 		E947EE161C4C1FF300EA4A7E /* YTTranslationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E947EE151C4C1FF300EA4A7E /* YTTranslationViewController.m */; settings = {ASSET_TAGS = (); }; };
-		E947EE1E1C4C635400EA4A7E /* YTTranslationSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = E947EE1D1C4C635400EA4A7E /* YTTranslationSpec.m */; settings = {ASSET_TAGS = (); }; };
 		E947EE251C4C85F800EA4A7E /* YTTranslator.m in Sources */ = {isa = PBXBuildFile; fileRef = E947EE241C4C85F800EA4A7E /* YTTranslator.m */; settings = {ASSET_TAGS = (); }; };
 		E988BC161C496A430060546C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E988BC111C496A430060546C /* AppDelegate.m */; settings = {ASSET_TAGS = (); }; };
 		E988BC291C49701E0060546C /* YTMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E988BC281C49701E0060546C /* YTMainViewController.m */; settings = {ASSET_TAGS = (); }; };
 		E988BC2B1C4970B90060546C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E988BC2A1C4970B90060546C /* Main.storyboard */; settings = {ASSET_TAGS = (); }; };
-		E988BC3A1C4984710060546C /* balloon_read_left.png in Resources */ = {isa = PBXBuildFile; fileRef = E988BC2D1C4984710060546C /* balloon_read_left.png */; settings = {ASSET_TAGS = (); }; };
-		E988BC3B1C4984710060546C /* balloon_read_right.png in Resources */ = {isa = PBXBuildFile; fileRef = E988BC2E1C4984710060546C /* balloon_read_right.png */; settings = {ASSET_TAGS = (); }; };
-		E988BC3C1C4984710060546C /* balloon_selected_left.png in Resources */ = {isa = PBXBuildFile; fileRef = E988BC2F1C4984710060546C /* balloon_selected_left.png */; settings = {ASSET_TAGS = (); }; };
-		E988BC3D1C4984710060546C /* balloon_selected_right.png in Resources */ = {isa = PBXBuildFile; fileRef = E988BC301C4984710060546C /* balloon_selected_right.png */; settings = {ASSET_TAGS = (); }; };
-		E988BC3E1C4984710060546C /* balloon_unread_left.png in Resources */ = {isa = PBXBuildFile; fileRef = E988BC311C4984710060546C /* balloon_unread_left.png */; settings = {ASSET_TAGS = (); }; };
-		E988BC3F1C4984710060546C /* balloon_unread_right.png in Resources */ = {isa = PBXBuildFile; fileRef = E988BC321C4984710060546C /* balloon_unread_right.png */; settings = {ASSET_TAGS = (); }; };
-		E9B4986B1C4DD56B0035F055 /* YTTranslationViewControllerSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = E9B4986A1C4DD56B0035F055 /* YTTranslationViewControllerSpec.m */; settings = {ASSET_TAGS = (); }; };
-		E9E0A43F1C4DE271007B2F12 /* YTMainViewControllerSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E0A43E1C4DE271007B2F12 /* YTMainViewControllerSpec.m */; settings = {ASSET_TAGS = (); }; };
 		E9E5BF201C46B4C800F017C6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E5BF1F1C46B4C800F017C6 /* main.m */; };
 		E9E5BF2B1C46B4C800F017C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9E5BF2A1C46B4C800F017C6 /* Assets.xcassets */; };
 		E9E5BF2E1C46B4C800F017C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9E5BF2C1C46B4C800F017C6 /* LaunchScreen.storyboard */; };
-		E9E5BF391C46B4C800F017C6 /* YodaTranslateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E5BF381C46B4C800F017C6 /* YodaTranslateTests.m */; };
-		E9E89BA51C4DBB6500FCD2AF /* YTTranslatorSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E89BA41C4DBB6500FCD2AF /* YTTranslatorSpec.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,7 +47,6 @@
 		E947EE0C1C4B268600EA4A7E /* PTSMessagingCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTSMessagingCell.h; sourceTree = "<group>"; };
 		E947EE0D1C4B268600EA4A7E /* PTSMessagingCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTSMessagingCell.m; sourceTree = "<group>"; };
 		E947EE151C4C1FF300EA4A7E /* YTTranslationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YTTranslationViewController.m; sourceTree = "<group>"; };
-		E947EE1D1C4C635400EA4A7E /* YTTranslationSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YTTranslationSpec.m; sourceTree = "<group>"; };
 		E947EE231C4C85F800EA4A7E /* YTTranslator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YTTranslator.h; sourceTree = "<group>"; };
 		E947EE241C4C85F800EA4A7E /* YTTranslator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YTTranslator.m; sourceTree = "<group>"; };
 		E988BC101C496A430060546C /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -66,14 +54,6 @@
 		E988BC271C49701E0060546C /* YTMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YTMainViewController.h; sourceTree = "<group>"; };
 		E988BC281C49701E0060546C /* YTMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YTMainViewController.m; sourceTree = "<group>"; };
 		E988BC2A1C4970B90060546C /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		E988BC2D1C4984710060546C /* balloon_read_left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = balloon_read_left.png; sourceTree = "<group>"; };
-		E988BC2E1C4984710060546C /* balloon_read_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = balloon_read_right.png; sourceTree = "<group>"; };
-		E988BC2F1C4984710060546C /* balloon_selected_left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = balloon_selected_left.png; sourceTree = "<group>"; };
-		E988BC301C4984710060546C /* balloon_selected_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = balloon_selected_right.png; sourceTree = "<group>"; };
-		E988BC311C4984710060546C /* balloon_unread_left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = balloon_unread_left.png; sourceTree = "<group>"; };
-		E988BC321C4984710060546C /* balloon_unread_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = balloon_unread_right.png; sourceTree = "<group>"; };
-		E9B4986A1C4DD56B0035F055 /* YTTranslationViewControllerSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YTTranslationViewControllerSpec.m; sourceTree = "<group>"; };
-		E9E0A43E1C4DE271007B2F12 /* YTMainViewControllerSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YTMainViewControllerSpec.m; sourceTree = "<group>"; };
 		E9E0A4401C4DEBC9007B2F12 /* YTMainViewController_Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YTMainViewController_Private.h; sourceTree = "<group>"; };
 		E9E5BF1B1C46B4C800F017C6 /* YodaTranslate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YodaTranslate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9E5BF1F1C46B4C800F017C6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -81,9 +61,6 @@
 		E9E5BF2D1C46B4C800F017C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9E5BF2F1C46B4C800F017C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E9E5BF341C46B4C800F017C6 /* YodaTranslateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YodaTranslateTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E9E5BF381C46B4C800F017C6 /* YodaTranslateTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YodaTranslateTests.m; sourceTree = "<group>"; };
-		E9E5BF3A1C46B4C800F017C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E9E89BA41C4DBB6500FCD2AF /* YTTranslatorSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YTTranslatorSpec.m; sourceTree = "<group>"; };
 		F886CD1855298142F84BA4D1 /* Pods-YodaTranslateTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YodaTranslateTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YodaTranslateTests/Pods-YodaTranslateTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -130,12 +107,6 @@
 		E988BC451C4984A00060546C /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				E988BC2D1C4984710060546C /* balloon_read_left.png */,
-				E988BC2E1C4984710060546C /* balloon_read_right.png */,
-				E988BC2F1C4984710060546C /* balloon_selected_left.png */,
-				E988BC301C4984710060546C /* balloon_selected_right.png */,
-				E988BC311C4984710060546C /* balloon_unread_left.png */,
-				E988BC321C4984710060546C /* balloon_unread_right.png */,
 			);
 			name = Images;
 			sourceTree = "<group>";
@@ -208,12 +179,6 @@
 		E9E5BF371C46B4C800F017C6 /* YodaTranslateTests */ = {
 			isa = PBXGroup;
 			children = (
-				E9E5BF381C46B4C800F017C6 /* YodaTranslateTests.m */,
-				E9E89BA41C4DBB6500FCD2AF /* YTTranslatorSpec.m */,
-				E947EE1D1C4C635400EA4A7E /* YTTranslationSpec.m */,
-				E9B4986A1C4DD56B0035F055 /* YTTranslationViewControllerSpec.m */,
-				E9E0A43E1C4DE271007B2F12 /* YTMainViewControllerSpec.m */,
-				E9E5BF3A1C46B4C800F017C6 /* Info.plist */,
 			);
 			path = YodaTranslateTests;
 			sourceTree = "<group>";
@@ -304,15 +269,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E988BC3D1C4984710060546C /* balloon_selected_right.png in Resources */,
-				E988BC3E1C4984710060546C /* balloon_unread_left.png in Resources */,
-				E988BC3A1C4984710060546C /* balloon_read_left.png in Resources */,
 				E9E5BF2E1C46B4C800F017C6 /* LaunchScreen.storyboard in Resources */,
-				E988BC3F1C4984710060546C /* balloon_unread_right.png in Resources */,
 				E9E5BF2B1C46B4C800F017C6 /* Assets.xcassets in Resources */,
-				E988BC3C1C4984710060546C /* balloon_selected_left.png in Resources */,
 				E988BC2B1C4970B90060546C /* Main.storyboard in Resources */,
-				E988BC3B1C4984710060546C /* balloon_read_right.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -438,11 +397,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9E0A43F1C4DE271007B2F12 /* YTMainViewControllerSpec.m in Sources */,
-				E947EE1E1C4C635400EA4A7E /* YTTranslationSpec.m in Sources */,
-				E9E5BF391C46B4C800F017C6 /* YodaTranslateTests.m in Sources */,
-				E9B4986B1C4DD56B0035F055 /* YTTranslationViewControllerSpec.m in Sources */,
-				E9E89BA51C4DBB6500FCD2AF /* YTTranslatorSpec.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
